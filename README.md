@@ -1,14 +1,16 @@
-## Python
+# Python
+/
 py -m venv env
 run env/bin/activate
 pip install -r requirements.txt
 
-# start python
+## start python
 
 py main.py
 
-## React
+# React
+client/image-reize
 yarn i
 
-# start react
+## start react
 yarn dev
