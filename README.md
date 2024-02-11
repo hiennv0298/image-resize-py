@@ -1,6 +1,6 @@
 # Python
 /
-py -m venv env
+### py -m venv env
 run env/bin/activate
 pip install -r requirements.txt
 
